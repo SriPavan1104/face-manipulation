@@ -1,0 +1,6 @@
+pytorch
+opencv
+dlib
+face recogition
+pandas
+numpy
